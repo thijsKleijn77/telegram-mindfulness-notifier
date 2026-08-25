@@ -1,0 +1,63 @@
+name: Mindfulness Notifier
+
+on:
+  schedule:
+    # Every 10 minutes, UTC. GitHub cron can fire a few minutes late, which is
+    # fine: the script decides what is due, the cron only wakes it up.
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Send one question immediately, ignoring the schedule'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+# Never let two poll runs race each other on the state files.
+concurrency:
+  group: mindfulness-notifier
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run the notifier
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Optional repo variable. Falls back to the TIMEZONE set in notifier.py.
+          TIMEZONE: ${{ vars.TIMEZONE }}
+          TEST_MODE: ${{ inputs.test_mode }}
+        run: python notifier.py
+
+      - name: Commit state
+        run: |
+          git config user.name 'mindfulness-notifier[bot]'
+          git config user.email 'mindfulness-notifier@users.noreply.github.com'
+          git add state/
+          if git diff --staged --quiet; then
+            echo 'No state changes to commit.'
+            exit 0
+          fi
+          git commit -m 'chore: notifier state [skip ci]'
+          for attempt in 1 2 3; do
+            if git push; then
+              echo 'State pushed.'
+              exit 0
+            fi
+            echo "Push rejected, rebasing and retrying ($attempt/3)."
+            git pull --rebase --autostash
+          done
+          echo 'Could not push state after 3 attempts.'
+          exit 1

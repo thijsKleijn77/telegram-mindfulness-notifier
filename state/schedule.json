@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-08-26T10:01:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-08-26T10:22:51+02:00",
+      "question": "Breathe in deeply and slowly for the next few minutes."
     },
     {
       "at": "2026-08-26T13:18:00+02:00",

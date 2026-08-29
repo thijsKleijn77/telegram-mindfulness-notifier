@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "timezone": "Europe/Amsterdam",
-  "generated_at": "2026-08-28T01:59:08+02:00",
+  "generated_at": "2026-08-29T05:19:33+02:00",
   "sends": [
     {
-      "at": "2026-08-28T07:47:00+02:00",
-      "sent": true,
-      "sent_at": "2026-08-28T13:15:23+02:00",
-      "question": "Who or what are you taking for granted right now?"
-    },
-    {
-      "at": "2026-08-28T12:17:00+02:00",
-      "sent": true,
-      "sent_at": "2026-08-28T23:27:30+02:00",
-      "question": "Do box breathing and feel your body."
-    },
-    {
-      "at": "2026-08-28T15:38:00+02:00",
+      "at": "2026-08-29T09:43:00+02:00",
       "sent": false,
       "sent_at": null,
       "question": null
     },
     {
-      "at": "2026-08-28T19:39:00+02:00",
+      "at": "2026-08-29T13:53:00+02:00",
       "sent": false,
       "sent_at": null,
       "question": null
     },
     {
-      "at": "2026-08-28T21:45:00+02:00",
+      "at": "2026-08-29T15:34:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
+    },
+    {
+      "at": "2026-08-29T16:28:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
+    },
+    {
+      "at": "2026-08-29T18:32:00+02:00",
       "sent": false,
       "sent_at": null,
       "question": null

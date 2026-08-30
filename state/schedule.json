@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-08-30T08:07:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-08-30T09:23:52+02:00",
+      "question": "Is what you have been doing today aligned with what you care about?"
     },
     {
       "at": "2026-08-30T09:13:00+02:00",

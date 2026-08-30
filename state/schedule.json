@@ -23,9 +23,9 @@
     },
     {
       "at": "2026-08-30T17:41:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-08-30T22:01:46+02:00",
+      "question": "Take a break for a few minutes and meditate."
     },
     {
       "at": "2026-08-30T20:36:00+02:00",

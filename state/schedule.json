@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-08-31T07:50:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-08-31T08:55:00+02:00",
+      "question": "What matters most in this next hour?"
     },
     {
       "at": "2026-08-31T10:35:00+02:00",

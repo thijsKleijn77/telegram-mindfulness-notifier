@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "timezone": "Europe/Amsterdam",
-  "generated_at": "2026-09-06T00:13:48+02:00",
+  "generated_at": "2026-09-07T00:21:14+02:00",
   "sends": [
     {
-      "at": "2026-09-06T09:06:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-06T10:50:25+02:00",
-      "question": "Is what you have been doing today aligned with what you care about?"
+      "at": "2026-09-07T07:49:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-06T10:36:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-06T14:47:52+02:00",
-      "question": "What's one thing that's going well today?"
+      "at": "2026-09-07T12:52:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-06T15:39:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-06T17:51:32+02:00",
-      "question": "Take a break for a few minutes and meditate."
+      "at": "2026-09-07T14:13:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-06T18:01:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-06T20:11:23+02:00",
-      "question": "What matters most in this next hour?"
+      "at": "2026-09-07T15:04:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-06T22:55:00+02:00",
+      "at": "2026-09-07T21:10:00+02:00",
       "sent": false,
       "sent_at": null,
       "question": null

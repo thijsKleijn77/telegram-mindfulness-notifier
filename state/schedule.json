@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-09-08T07:50:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-09-08T11:50:52+02:00",
+      "question": "What are you grateful for right now?"
     },
     {
       "at": "2026-09-08T08:53:00+02:00",

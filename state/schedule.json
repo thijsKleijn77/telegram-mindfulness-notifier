@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "timezone": "Europe/Amsterdam",
-  "generated_at": "2026-09-09T01:23:11+02:00",
+  "generated_at": "2026-09-10T02:01:02+02:00",
   "sends": [
     {
-      "at": "2026-09-09T08:18:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-09T08:34:54+02:00",
-      "question": "Take a break for a few minutes and meditate."
+      "at": "2026-09-10T07:45:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-09T14:47:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-09T18:25:32+02:00",
-      "question": "Are you holding tension anywhere? Can you soften it?"
+      "at": "2026-09-10T12:01:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-09T16:14:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-09T21:24:39+02:00",
-      "question": "Is what you have been doing today aligned with what you care about?"
+      "at": "2026-09-10T13:54:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-09T17:58:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-09T23:53:18+02:00",
-      "question": "Breathe in deeply and slowly for the next few minutes."
+      "at": "2026-09-10T16:37:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-09T18:46:00+02:00",
+      "at": "2026-09-10T18:38:00+02:00",
       "sent": false,
       "sent_at": null,
       "question": null

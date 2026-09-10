@@ -11,9 +11,9 @@
     },
     {
       "at": "2026-09-10T12:01:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-09-10T15:41:01+02:00",
+      "question": "Focus on intentionally enjoying what you're doing right now."
     },
     {
       "at": "2026-09-10T13:54:00+02:00",

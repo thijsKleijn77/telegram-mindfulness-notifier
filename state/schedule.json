@@ -11,9 +11,9 @@
     },
     {
       "at": "2026-09-11T11:41:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-09-11T15:53:11+02:00",
+      "question": "Who or what are you taking for granted right now?"
     },
     {
       "at": "2026-09-11T12:58:00+02:00",

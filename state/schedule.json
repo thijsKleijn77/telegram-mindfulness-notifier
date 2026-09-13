@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-09-13T08:11:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-09-13T12:34:18+02:00",
+      "question": "What's one thing that's going well today?"
     },
     {
       "at": "2026-09-13T15:06:00+02:00",

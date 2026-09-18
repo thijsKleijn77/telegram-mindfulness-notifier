@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "timezone": "Europe/Amsterdam",
-  "generated_at": "2026-09-18T00:46:54+02:00",
+  "generated_at": "2026-09-19T00:51:54+02:00",
   "sends": [
     {
-      "at": "2026-09-18T08:15:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-18T12:04:45+02:00",
-      "question": "Are you holding tension anywhere? Can you soften it?"
+      "at": "2026-09-19T10:02:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-18T11:27:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-18T16:29:51+02:00",
-      "question": "Do box breathing and feel your body."
+      "at": "2026-09-19T14:17:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-18T13:26:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-18T19:50:51+02:00",
-      "question": "What are you grateful for right now?"
+      "at": "2026-09-19T17:28:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-18T17:29:00+02:00",
-      "sent": true,
-      "sent_at": "2026-09-18T22:46:11+02:00",
-      "question": "What's one thing that's going well today?"
+      "at": "2026-09-19T18:49:00+02:00",
+      "sent": false,
+      "sent_at": null,
+      "question": null
     },
     {
-      "at": "2026-09-18T21:26:00+02:00",
+      "at": "2026-09-19T22:50:00+02:00",
       "sent": false,
       "sent_at": null,
       "question": null

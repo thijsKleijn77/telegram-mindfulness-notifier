@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-09-20T12:28:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-09-20T14:20:53+02:00",
+      "question": "What are you feeling in your body at this moment?"
     },
     {
       "at": "2026-09-20T15:04:00+02:00",

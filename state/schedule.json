@@ -23,9 +23,9 @@
     },
     {
       "at": "2026-10-03T18:06:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-10-03T22:08:23+02:00",
+      "question": "What are you feeling in your body at this moment?"
     },
     {
       "at": "2026-10-03T22:41:00+02:00",

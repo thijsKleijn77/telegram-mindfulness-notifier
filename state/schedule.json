@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-10-03T07:36:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-10-03T09:57:11+02:00",
+      "question": "Take a break for a few minutes and meditate."
     },
     {
       "at": "2026-10-03T10:57:00+02:00",

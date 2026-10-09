@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-10-09T11:27:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-10-09T11:37:40+02:00",
+      "question": "Who or what are you taking for granted right now?"
     },
     {
       "at": "2026-10-09T13:29:00+02:00",

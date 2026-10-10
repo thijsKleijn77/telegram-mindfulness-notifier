@@ -11,9 +11,9 @@
     },
     {
       "at": "2026-10-10T08:49:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-10-10T15:37:50+02:00",
+      "question": "Breathe in deeply and slowly for the next few minutes."
     },
     {
       "at": "2026-10-10T15:27:00+02:00",

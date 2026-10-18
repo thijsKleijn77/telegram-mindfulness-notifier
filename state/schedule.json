@@ -11,9 +11,9 @@
     },
     {
       "at": "2026-10-18T09:04:00+02:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-10-18T13:43:03+02:00",
+      "question": "What's one thing that's going well today?"
     },
     {
       "at": "2026-10-18T10:50:00+02:00",

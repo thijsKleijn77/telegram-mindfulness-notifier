@@ -1,4 +1,16 @@
 {
-  "remaining": [],
-  "last_sent": "Take a break for a few minutes and meditate."
+  "remaining": [
+    "Is what you have been doing today aligned with what you care about?",
+    "What matters most in this next hour?",
+    "Are you holding tension anywhere? Can you soften it?",
+    "What are you feeling in your body at this moment?",
+    "Focus on intentionally enjoying what you're doing right now.",
+    "What's one thing that's going well today?",
+    "Take a break for a few minutes and meditate.",
+    "What are you looking forward to? And how can that make you enjoy the current moment more?",
+    "Do box breathing and feel your body.",
+    "Breathe in deeply and slowly for the next few minutes.",
+    "Who or what are you taking for granted right now?"
+  ],
+  "last_sent": "What are you grateful for right now?"
 }

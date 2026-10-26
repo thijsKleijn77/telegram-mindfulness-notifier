@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-10-26T07:53:00+01:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-10-26T08:07:04+01:00",
+      "question": "Focus on intentionally enjoying what you're doing right now."
     },
     {
       "at": "2026-10-26T10:36:00+01:00",

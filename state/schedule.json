@@ -5,9 +5,9 @@
   "sends": [
     {
       "at": "2026-11-08T13:37:00+01:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-11-08T15:57:03+01:00",
+      "question": "Are you holding tension anywhere? Can you soften it?"
     },
     {
       "at": "2026-11-08T14:30:00+01:00",

@@ -11,9 +11,9 @@
     },
     {
       "at": "2026-11-21T12:10:00+01:00",
-      "sent": false,
-      "sent_at": null,
-      "question": null
+      "sent": true,
+      "sent_at": "2026-11-21T18:40:12+01:00",
+      "question": "Is what you have been doing today aligned with what you care about?"
     },
     {
       "at": "2026-11-21T16:01:00+01:00",
